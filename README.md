@@ -7,7 +7,7 @@ Clone Repository
 $ git clone https://github.com/guptahardik17/node-mongo-connection.git
 ```
 ```sh
-$ cd React-Todo
+$ cd node-mongo-connection
 ```
 
 Install the dependencies
